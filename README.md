@@ -1,2 +1,2 @@
-# TUGAS1
+# TUGAS RANGKAIAN DIGITAL
 rangkaian digital
